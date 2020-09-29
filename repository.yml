@@ -71,7 +71,7 @@ repo.newt_compatibility:
     # Core 1.7.0+ requires newt 1.7.0+ (feature: range)
     # Core 1.8.0+ requires newt 1.8.0+ (feature: version.yml not needed)
     1.8.1:
-        1.8.1: good
+        1.8.0: good
     1.8.0:
         1.8.0: good
     1.7.0:
